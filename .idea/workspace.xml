@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="160b7320-54d1-4283-ae00-586579f277df" name="デフォルト" comment="">
+      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/review_site.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/review_site.scss" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/products_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/ranking_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/ranking_controller.rb" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/reviews_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/reviews_controller.rb" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/review_site.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/review_site.html.erb" />
+      <change beforePath="$PROJECT_DIR$/app/views/products/index.html.erb" afterPath="$PROJECT_DIR$/app/views/products/index.html.erb" />
+      <change beforePath="$PROJECT_DIR$/app/views/products/show.html.erb" afterPath="$PROJECT_DIR$/app/views/products/show.html.erb" />
+      <change beforePath="$PROJECT_DIR$/app/views/reviews/new.html.erb" afterPath="$PROJECT_DIR$/app/views/reviews/new.html.erb" />
+      <change beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sass/1c1c88b927341a72e113662c07043aad24de0d19/review_site.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sass/1c1c88b927341a72e113662c07043aad24de0d19/top.css.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sass/1c1c88b927341a72e113662c07043aad24de0d19/works.css.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/06c2a2d2468e1dca4dbd84872922ab1e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/110a2b049cd92b659148f6dde4e1822a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/13fe41fee1fe35b49d145bcc06610705" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/13fe41fee1fe35b49d145bcc06610705" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/143a6e295f771f950497c235cf467cd3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/1b25fd5394b75ef8894c96dff955a60e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/1db2553e693dd234653c1f1ef91f1797" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/1db2553e693dd234653c1f1ef91f1797" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/205ba71a43c4665c32924333a5820eaa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/286b00478d751d07a5aa707a96b1df5d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2f5173deea6c795b8fdde723bb4b63af" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2f5173deea6c795b8fdde723bb4b63af" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/357970feca3ac29060c1e3861e2c0953" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/357970feca3ac29060c1e3861e2c0953" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/3d1effc4d8c40086d4fa524eec638f2a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/421cf8988e9118b4ec6241d0e7153e78" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6e01e9122cabea5be6b95507337a60d1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/7940c267fd457f464a049686219eec8b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/79cdf37dc5c7b54df157272f881124ec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/7bf652927e439de2258b93be6c8cc5d0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/8db9baa731a65316f44fa67045edd905" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a0e9dbe4bce5f18dedd4214763feeb43" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a5c5d22a24de90fc2d4e80d51d5aadf8" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a5c5d22a24de90fc2d4e80d51d5aadf8" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a7d5a6357fb3f2f3fe783e7d8e5e7843" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a7d5a6357fb3f2f3fe783e7d8e5e7843" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ab1e276ecceba156943edc805bc6b734" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ae0581f567d74523978088610d8b4be7" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ae0581f567d74523978088610d8b4be7" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bced6b0eb9e379a555ecd0390ae12068" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bced6b0eb9e379a555ecd0390ae12068" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/be28ec40338738b7c64f40c5cb7c29ce" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/be4e331e7f757df4756e009dd90a195b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cc86961c7d812a5b5fb309286b8897eb" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cc86961c7d812a5b5fb309286b8897eb" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cffd775d018f68ce5dba1ee0d951a994" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cffd775d018f68ce5dba1ee0d951a994" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/d67945b09abc2e7ddb178211d4033d65" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/d771ace226fc8215a3572e0aa35bb0d6" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/d771ace226fc8215a3572e0aa35bb0d6" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ea5250e49b61bc5ab61583d07af0e1ac" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ed7047051b5cacd437c4a8d73a0f60c3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ee9bcb3e8b0dd6c0463095878e4973aa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/efc4fec2cf03008cd460dd8ba2bc9b63" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/efc4fec2cf03008cd460dd8ba2bc9b63" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f7cbd26ba1d28d48de824f0e94586655" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f7cbd26ba1d28d48de824f0e94586655" />
+      <change beforePath="$PROJECT_DIR$/tmp/pids/server.pid" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <ignored path="$PROJECT_DIR$/vendor/cache/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="79" lean-forward="false" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mooovi1026" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mooovi1026" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mooovi1026" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mooovi1026" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mooovi1026" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mooovi1026" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="160b7320-54d1-4283-ae00-586579f277df" name="デフォルト" comment="" />
+      <created>1522481627463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522481627463</updated>
+      <workItem from="1523883356826" duration="989000" />
+      <workItem from="1524399818745" duration="7000" />
+      <workItem from="1524639985898" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="999000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="79" lean-forward="false" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="79" lean-forward="false" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="79" lean-forward="false" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
